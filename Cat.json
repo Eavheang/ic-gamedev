@@ -1,0 +1,265 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 231,
+    "major": 5,
+    "minor": 5,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "portrait",
+    "packageName": "com.fishing.Catian",
+    "pixelsRounding": true,
+    "projectUuid": "ccbd38a7-cd12-4e02-8002-8342747706c3",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Cat",
+    "description": "Fishing cat game",
+    "author": "RPS",
+    "windowWidth": 720,
+    "windowHeight": 1280,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [
+      "brEuzLgulKg2sJz2ELs2gr5ZLxv1"
+    ],
+    "authorUsernames": [
+      "Hezos"
+    ],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "Assets/Terrain/Terrain (16x16).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Terrain\\Terrain (16x16).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Background/Blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Background\\Blue.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Background/Purple.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Background\\Purple.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Main Characters/Mask Dude/Idle (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Main Characters\\Mask Dude\\Idle (32x32).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Untitled11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Untitled11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Transparent dark joystick border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent dark joystick border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Multitouch joysticks/2d2dc12926c7c9d9bdc721625d067fa504c6d560f5f554bfc56ab9b7f7140244_Transparent dark joystick border.png",
+          "name": "Transparent dark joystick border.png"
+        }
+      },
+      {
+        "file": "assets/Transparent dark joystick thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent dark joystick thumb.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Multitouch joysticks/ced42a0bbf18fae399df9c45c2323454cfbed06e57b0aed47a6b036781a1bd64_Transparent dark joystick thumb.png",
+          "name": "Transparent dark joystick thumb.png"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/spritemultitouchjoystick"
+    }
+  ],
+  "externalLayouts": []
+}
