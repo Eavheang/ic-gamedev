@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3673257545058963,
+    "zoomFactor": 0.7876290101674067,
     "windowMask": false
   },
   "objectsGroups": [
@@ -6665,6 +6665,10 @@
     {
       "name": "Platform",
       "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerMultitouchMapper",
+      "type": "SpriteMultitouchJoystick::PlatformerMultitouchMapper"
     },
     {
       "name": "PlatformerObject",

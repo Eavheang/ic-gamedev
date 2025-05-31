@@ -961,6 +961,30 @@
         "name": "NewSprite41",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Transparent light joystick border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent light joystick border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Multitouch joysticks/10bb8307b196849eae402b1fbbbb71528828879912fad4836416d85d6d935e6d_Transparent light joystick border.png",
+          "name": "Transparent light joystick border.png"
+        }
+      },
+      {
+        "file": "assets/Transparent light joystick thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent light joystick thumb.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Multitouch joysticks/446729297d485b00428957eb0de56e66d3f5ddf8aa3092ad192f8dd670dd79f2_Transparent light joystick thumb.png",
+          "name": "Transparent light joystick thumb.png"
+        }
       }
     ],
     "resourceFolders": []
